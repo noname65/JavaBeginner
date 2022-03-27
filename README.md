@@ -2,7 +2,7 @@
 	</section>
 	<section>
 		<h2> Assignments </h2>
-		<p></p>
+		<p>Previous Java assignments</p>
 		<h2> Methods </h2>
 		<p>
 			Step by step instructions on how to run the program. Tell where the code is, how to compile it, how to run it,  where any data resources or tooling required to run the program might be found and how to include or use it. Describe expected behavior. This section should mirror your standard README.md file for an open-source program.
